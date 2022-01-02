@@ -1,5 +1,4 @@
 *.jar
 *.exe
-*.txt
 /bin/
 testdata.xls
